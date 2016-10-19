@@ -1,6 +1,8 @@
-## Ethereum Go
+## EtherDoge Go
 
-Official golang implementation of the Ethereum protocol
+![https://i.imgflip.com/76e3v.jpg](https://i.imgflip.com/76e3v.jpg)
+
+Official golang implementation of the DogeEthereum protocol
 
           | Linux   | OSX | ARM | Windows | Tests
 ----------|---------|-----|-----|---------|------
